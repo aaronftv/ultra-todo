@@ -27,3 +27,5 @@ We suggest that you begin by typing:
   git add -A
   git commit -m "Deploy"
   git push
+  #or
+  git push -u origin master
