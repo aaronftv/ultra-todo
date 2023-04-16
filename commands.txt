@@ -1,0 +1,29 @@
+//go to project
+npx create-react-app ./
+
+
+To address all issues (including breaking changes), run:
+  npm audit fix --force
+
+Run `npm audit` for details.
+
+
+  npm test
+    Starts the test runner.
+
+  npm run eject
+    Removes this tool and copies build dependencies, configuration files
+    and scripts into the app directory. If you do this, you can’t go back!
+
+We suggest that you begin by typing:
+
+  cd C:\Users\aaron\OneDrive\DevProj\reactProjects\ultra-todo
+  npm start
+
+
+  ---------------
+  npm run build
+
+  git add -A
+  git commit -m "Deploy"
+  git push
